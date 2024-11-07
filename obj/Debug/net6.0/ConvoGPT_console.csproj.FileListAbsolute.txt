@@ -1,0 +1,17 @@
+C:\Users\lutta\source\repos\ConvoGPT_console\bin\Debug\net6.0\ConvoGPT_console.exe
+C:\Users\lutta\source\repos\ConvoGPT_console\bin\Debug\net6.0\ConvoGPT_console.deps.json
+C:\Users\lutta\source\repos\ConvoGPT_console\bin\Debug\net6.0\ConvoGPT_console.runtimeconfig.json
+C:\Users\lutta\source\repos\ConvoGPT_console\bin\Debug\net6.0\ConvoGPT_console.dll
+C:\Users\lutta\source\repos\ConvoGPT_console\bin\Debug\net6.0\ConvoGPT_console.pdb
+C:\Users\lutta\source\repos\ConvoGPT_console\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lutta\source\repos\ConvoGPT_console\obj\Debug\net6.0\ConvoGPT_console.csproj.AssemblyReference.cache
+C:\Users\lutta\source\repos\ConvoGPT_console\obj\Debug\net6.0\ConvoGPT_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lutta\source\repos\ConvoGPT_console\obj\Debug\net6.0\ConvoGPT_console.AssemblyInfoInputs.cache
+C:\Users\lutta\source\repos\ConvoGPT_console\obj\Debug\net6.0\ConvoGPT_console.AssemblyInfo.cs
+C:\Users\lutta\source\repos\ConvoGPT_console\obj\Debug\net6.0\ConvoGPT_console.csproj.CoreCompileInputs.cache
+C:\Users\lutta\source\repos\ConvoGPT_console\obj\Debug\net6.0\ConvoGPT.591A23FA.Up2Date
+C:\Users\lutta\source\repos\ConvoGPT_console\obj\Debug\net6.0\ConvoGPT_console.dll
+C:\Users\lutta\source\repos\ConvoGPT_console\obj\Debug\net6.0\refint\ConvoGPT_console.dll
+C:\Users\lutta\source\repos\ConvoGPT_console\obj\Debug\net6.0\ConvoGPT_console.pdb
+C:\Users\lutta\source\repos\ConvoGPT_console\obj\Debug\net6.0\ConvoGPT_console.genruntimeconfig.cache
+C:\Users\lutta\source\repos\ConvoGPT_console\obj\Debug\net6.0\ref\ConvoGPT_console.dll
